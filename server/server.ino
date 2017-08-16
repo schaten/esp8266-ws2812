@@ -3,7 +3,7 @@
 #include <Adafruit_NeoPixel.h>
 #define DO 14		//DataOut
 #define LEN 15
-#define UDP_PORT 23
+#define UDP_PORT 3000
 
 #define SSID 
 #define PSK 

@@ -5,7 +5,7 @@ import math
 import sys
 
 IP="192.168.178.110"
-PORT=23
+PORT=3000
 LENGTH=15
 
 mode=0
